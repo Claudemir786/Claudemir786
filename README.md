@@ -1,7 +1,7 @@
 👨🏽‍💻 Claudemir Junior  
 Estudante de ADS - Universidade Positivo  
 
-Olá! Meu nome é Claudemir, tenho 25 anos e sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.  
+Olá! Meu nome é Claudemir, tenho 26 anos e sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.  
 
 Atualmente, estou focado em C, Java, HTML, CSS (Bootstrap), JavaScript e PHP, com interesse em desenvolvimento web e back-end. Gosto de desafios que me ajudem a aprimorar minha lógica de programação e a aprender novas tecnologias!  
 
