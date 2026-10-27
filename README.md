@@ -4,7 +4,7 @@
 
 💻 Desenvolvedor Full Stack com foco em aplicações **Web** e **Mobile**.
 
-Atualmente desenvolvo projetos utilizando **React Native**, **Node.js**, **JavaScript** e **MySQL**, buscando evoluir continuamente em desenvolvimento de software, boas práticas e arquitetura de aplicações.
+Atualmente desenvolvo projetos utilizando **React Native**, **React**, **Node.js**, **TypeScript**, **JavaScript** e **MySQL**, buscando evoluir continuamente em desenvolvimento de software, boas práticas e arquitetura de aplicações.
 
 ---
 
@@ -15,6 +15,7 @@ Atualmente desenvolvo projetos utilizando **React Native**, **Node.js**, **JavaS
   <img title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img title="React Native" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img title="Express" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
@@ -29,11 +30,23 @@ Atualmente desenvolvo projetos utilizando **React Native**, **Node.js**, **JavaS
 
 ## 📌 Projetos em Destaque
 
+### 💈 BarberApp
+
+Aplicativo desenvolvido para conectar clientes a barbearias, permitindo encontrar estabelecimentos, consultar serviços e realizar agendamentos. Também possui funcionalidades para os proprietários gerenciarem seus estabelecimentos, profissionais e horários.
+
+**Tecnologias:** React Native • Expo • Node.js • Express • MySQL • JWT
+
+🔗 [Repositório](https://github.com/Claudemir786/BarberApp)
+
+---
+
 ### 🎬 Movie Flow
 
 Aplicativo mobile desenvolvido em **React Native** para pesquisar filmes e séries e descobrir em quais plataformas de streaming estão disponíveis.
 
 **Tecnologias:** React Native • Node.js • Express • MySQL • JWT • SecureStore • TMDB • Watchmode
+
+🔗 [Repositório](https://github.com/Claudemir786/Movie-Flow)
 
 ---
 
@@ -43,15 +56,14 @@ Aplicativo desenvolvido com foco em **gamificação de hábitos**, transformando
 
 **Tecnologias:** React Native • Node.js • Express • MySQL • JWT
 
+🔗 [Repositório](https://github.com/Claudemir786/HabitQuest-Sistema-de-Habitos-Gamificado-Fullstack)
+
 ---
 
 ## 📊 Estatísticas
 
-
-
 <p align="center">
-  <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudemir786&theme=gotham"/>
- 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudemir786&theme=gotham"/>
 </p>
 
 <p align="center">
@@ -60,6 +72,5 @@ Aplicativo desenvolvido com foco em **gamificação de hábitos**, transformando
 </p>
 
 ---
-
 
 ⭐ Obrigado pela visita ao meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
